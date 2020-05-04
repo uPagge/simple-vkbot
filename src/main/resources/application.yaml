@@ -1,0 +1,11 @@
+sadtech:
+  vkbot:
+    config:
+      group:
+        id:
+        token:
+      service:
+        app-id:
+        token:
+logging:
+  level:
